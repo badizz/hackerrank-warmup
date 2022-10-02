@@ -8,14 +8,16 @@ namespace _00_solve_me_first
 {
     class Program
     {
-        static void Main(string[] args)
+        static int solveMeFirst(int a, int b)
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
-
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            return a + b;
+        }
+        static void Main(String[] args)
+        {
+            int val1 = Convert.ToInt32(Console.ReadLine());
+            int val2 = Convert.ToInt32(Console.ReadLine());
+            int sum = solveMeFirst(val1, val2);
+            Console.WriteLine(sum);
         }
     }
 }
