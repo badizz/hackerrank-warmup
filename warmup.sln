@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-very-big-sum", "02-very-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-diagonal-difference", "04-diagonal-difference\04-diagonal-difference.csproj", "{A32B1EBB-37F3-4031-AB11-5E48D03870CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-plus-minus", "05-plus-minus\05-plus-minus.csproj", "{68BB8395-ED82-4FCD-AB2C-13DDC5174AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-staircase", "06-staircase\06-staircase.csproj", "{E59EC109-48C7-4A77-B2E1-481D5465DEB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +48,14 @@ Global
 		{A32B1EBB-37F3-4031-AB11-5E48D03870CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32B1EBB-37F3-4031-AB11-5E48D03870CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32B1EBB-37F3-4031-AB11-5E48D03870CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB8395-ED82-4FCD-AB2C-13DDC5174AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB8395-ED82-4FCD-AB2C-13DDC5174AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB8395-ED82-4FCD-AB2C-13DDC5174AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB8395-ED82-4FCD-AB2C-13DDC5174AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59EC109-48C7-4A77-B2E1-481D5465DEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59EC109-48C7-4A77-B2E1-481D5465DEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59EC109-48C7-4A77-B2E1-481D5465DEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59EC109-48C7-4A77-B2E1-481D5465DEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
