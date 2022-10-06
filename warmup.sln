@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-staircase", "06-staircas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-mini-max-sum", "07-mini-max-sum\07-mini-max-sum.csproj", "{AAD17FD9-141A-429B-A643-D29FCE41D2F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-birthday-cake-candles", "08-birthday-cake-candles\08-birthday-cake-candles.csproj", "{3881A8DA-8EB8-4446-9AE4-B4ED36F0818E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{AAD17FD9-141A-429B-A643-D29FCE41D2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD17FD9-141A-429B-A643-D29FCE41D2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAD17FD9-141A-429B-A643-D29FCE41D2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3881A8DA-8EB8-4446-9AE4-B4ED36F0818E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3881A8DA-8EB8-4446-9AE4-B4ED36F0818E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3881A8DA-8EB8-4446-9AE4-B4ED36F0818E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3881A8DA-8EB8-4446-9AE4-B4ED36F0818E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
